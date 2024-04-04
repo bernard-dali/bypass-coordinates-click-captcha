@@ -1,4 +1,4 @@
-(image)
+![image](https://github.com/bernard-dali/bypass-coordinates-captcha/assets/151824231/8ca36e60-d878-4135-bd5b-27245b7157aa)
 
 # Solving coordinates captcha in Puppeteer
 
@@ -21,7 +21,8 @@ In this example, the captcha located on the page https://2captcha.com/demo/click
 5. Click on the "Check" button to check the result.
 
 For clarity, here is a graphical description:
-(image)
+![image](https://github.com/bernard-dali/bypass-coordinates-captcha/assets/151824231/89e3547a-f88b-4542-9af1-bcad41b20a8e)
+
 
 ## Run
 
