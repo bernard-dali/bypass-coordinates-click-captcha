@@ -1,0 +1,15 @@
+{
+  "name": "coordinates",
+  "version": "1.0.0",
+  "description": "Bypass coordinates captcha",
+  "main": "index.js",
+  "scripts": {    
+    "start" :"node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "2captcha-ts": "^2.3.3",
+    "puppeteer": "^22.6.2"
+  }
+}
